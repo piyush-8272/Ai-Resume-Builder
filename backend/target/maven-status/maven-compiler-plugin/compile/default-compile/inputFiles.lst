@@ -1,0 +1,14 @@
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\controller\ResumeController.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\service\ResumeService.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\config\CorsConfig.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\config\GlobalExceptionHandler.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\dto\HistoryResponse.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\dto\AnalyzeRequest.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\service\TextExtractionService.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\SmartResumeAnalyzerApplication.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\config\SpaController.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\dto\UploadResponse.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\service\SkillMatchingService.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\model\ResumeAnalysis.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\repository\ResumeAnalysisRepository.java
+C:\Users\manis\smart-resume-analyzer\backend\src\main\java\com\resumeanalyzer\dto\AnalysisResponse.java
